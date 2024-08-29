@@ -1,0 +1,6 @@
+entity\Palindrome.class
+stubs\WriteDataStub.class
+entity\Employee.class
+entity\DataWriterReader.class
+stubs\PalindromeStub.class
+service\EmployeeService.class
